@@ -44,12 +44,12 @@ void main(List<String> args) {
     print("şartı sağlamıyor");
   }
 
-  bool ogrenciMi = false;
-  if (!ogrenciMi) {
-    print("öğrenci ");
-  } else {
-    print("öğrenci değil");
-  }
+  // bool ogrenciMi = false;
+  // if (!ogrenciMi) {
+  //   print("öğrenci ");
+  // } else {
+  //   print("öğrenci değil");
+  // }
 
 // Arttırma Azalatma Operatörleri
 sayi1=11;
