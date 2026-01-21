@@ -9,8 +9,8 @@ Bu depo, **BTK Akademi** üzerinden aldığım Dart ve Flutter eğitimleri süre
 ## 📂 Öğrenim Takibi ve İçerik
 
 ### 🔵 Bölüm 1: Dart Programlama Dili
-- [ ] Değişkenler, Operatörler ve Temel Sözdizimi
-- [ ] Kontrol Yapıları ve Döngüler
+- [+] Değişkenler, Operatörler ve Temel Sözdizimi
+- [+] Kontrol Yapıları ve Döngüler
 - [ ] **Nesne Yönelimli Programlama (OOP):** Classes, Inheritance, Mixins ve Interfaces.
 - [ ] Hata Yönetimi (Try-Catch) ve Asenkron Programlama (Async/Await)
 
